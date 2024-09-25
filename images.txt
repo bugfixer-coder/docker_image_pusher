@@ -6,3 +6,4 @@ xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 ibmcom/db2:11.5.8.0
 ibmcom/informix-developer-database:14.10.FC7W1DE
+shihd/gbase8a:1.0
