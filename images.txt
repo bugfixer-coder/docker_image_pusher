@@ -8,3 +8,4 @@ ibmcom/db2:11.5.8.0
 ibmcom/informix-developer-database:14.10.FC7W1DE
 shihd/gbase8a:1.0
 centos:7
+--platform=linux/amd64 clickhouse/clickhouse-server:24.8.10.5
