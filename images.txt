@@ -10,3 +10,4 @@
 #centos:7
 #--platform=linux/amd64 clickhouse/clickhouse-server:24.8.10.5
 iamamr/vertica:9.1.0-0
+sumitchawla/vertica
