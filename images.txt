@@ -8,8 +8,9 @@
 #ibmcom/informix-developer-database:14.10.FC7W1DE
 #shihd/gbase8a:1.0
 #centos:7
---platform=linux/amd64 clickhouse/clickhouse-server:24.8.13.16
+#--platform=linux/amd64 clickhouse/clickhouse-server:24.8.13.16
 #iamamr/vertica:9.1.0-0
 #sumitchawla/vertica
 #cjonesy/docker-vertica:7.2.3-18
---platform=linux/amd64 redis:6.2.6
+#--platform=linux/amd64 redis:6.2.6
+datagrip/sybase:16.0
